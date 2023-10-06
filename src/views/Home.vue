@@ -4,7 +4,7 @@
       <div class=" max-w-xs mx-auto md:mx-0 md:w-1/2 px-2 sm:px-0">
         <img
           class=" shadow-xl rounded-lg block  mx-auto object-contain"
-          src="/img/main-image.jpg"
+          src="/img/photo.jpg"
           alt="me"
         />
       </div>
